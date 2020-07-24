@@ -1,13 +1,13 @@
-package com.test.mailparser;
+package com.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MailParserApplication {
+public class MainApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MailParserApplication.class, args);
+		SpringApplication.run(MainApplication.class, args);
 	}
 
 }

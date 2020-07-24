@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test</groupId>
-	<artifactId>mail-parser</artifactId>
+	<artifactId>word-parser</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mail-parser</name>
 	<description>Demo project for Spring Boot</description>
